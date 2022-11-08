@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  * @author Usuario
  */
-public class EJERCICIO_1 {
+public class EJERCICIO_ {
 
     /**
      *
